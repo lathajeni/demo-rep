@@ -1,2 +1,2 @@
-# demo-rep
-just for learing
+# DemoRepo
+demo for learning git, GitHub.
